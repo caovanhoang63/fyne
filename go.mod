@@ -1,6 +1,6 @@
 module github.com/caovanhoang63/fyne
 
-go 1.24.0
+go 1.22.12
 
 require fyne.io/fyne/v2 v2.5.4
 
